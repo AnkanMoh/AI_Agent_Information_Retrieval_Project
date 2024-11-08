@@ -68,12 +68,3 @@ For a quick 2-minute overview, watch the [Loom Video Walkthrough](https://www.lo
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-Enjoy using the AI Agent Information Retrieval Project!
-```
-
---- 
-
-This version directly includes the Loom link in the "Video Walkthrough" section without extra phrasing. Let me know if there's anything else you’d like to modify!
