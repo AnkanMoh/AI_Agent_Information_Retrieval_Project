@@ -1,6 +1,3 @@
-
-
-```
 # AI Agent Information Retrieval Project
 
 ## Project Summary
